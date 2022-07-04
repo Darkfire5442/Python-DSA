@@ -9,5 +9,5 @@ else:
     num=array[0];
     for i in range(1,len(array)):
         num^=array[i]
-print("The number occuring only 1 time is:",num)
+print("The number occuring only 1 time is :",num)
 
